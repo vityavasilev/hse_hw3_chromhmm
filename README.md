@@ -42,4 +42,7 @@ Colab - https://colab.research.google.com/drive/1LStC4SA6CQNxmcV8cBgMIfwl9_ufEu4
 | 9 | Weak Transcribed | Ctcf средне выражает + интрон и экзон |
 | 10 | Repressed | H3k09me средне выражает + не попадает на ген |
 | 11 | Heterochromatin | Ezh средне выражает + не попадает на ген |
-| 12 | Heterochromatin | H3k36me3 средне выражает + не попадает на ген |
+| 12 | Heterochromatin | H3k36me3 средне выражает + не попадает на ген |  
+# Бонус
+(в колабе)
+![image](https://github.com/vityavasilev/hse_hw3_chromhmm/assets/147335727/e7976c07-e95b-449c-bb7b-6b5e00868220)
